@@ -10,6 +10,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Introduction
+
+Screenshot of LinkedIn
 
 ## Selectric II
 
@@ -31,9 +34,70 @@ This is my note.
 <div class="notes">
 Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
 </div>
-## Slide with Plot
+## 5 Stages
+<div class="notes">
+Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
+</div>
 
-```{r pressure}
-plot(pressure)
-```
+## Diffusion of Innovation
+<div class="notes">
+Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
+</div>
 
+## Five Types
+- Innovators
+- Early Adopters
+-   Early Majority
+- Majority
+- Non-adopters
+
+<div class="notes">
+Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
+</div>
+
+
+## Percieved Usefulness
+Is it useful?
+
+<div class="notes">
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
+</div>
+
+## The Digital Divide
+<div class="notes">
+Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon, 9(5), 1-6. doi: http://dx.doi.org/10.1108/10748120110424816
+</div>
+
+## Natives vs Immigrants
+<div class="notes">
+Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon, 9(5), 1-6. doi: http://dx.doi.org/10.1108/10748120110424816
+</div>
+
+## Overcoming
+What stage are we in?
+Is it useful?
+
+## Fear Factors
+Failure
+Embraressment
+Success
+
+<div class="notes">
+What do people fear – what are blockers to adoption and learning?
+</div>
+
+## Assuring Success
+Management
+Meaning
+Means
+
+<div class="notes">
+What are keys to success?
+
+
+Management support
+
+It must be a meaningful change
+
+There must be a means for workers to accomplish their goals
+</div>
