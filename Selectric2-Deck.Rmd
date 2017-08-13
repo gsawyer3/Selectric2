@@ -1,0 +1,39 @@
+---
+title: "Why Does Fred Still Use That Selectric II?"
+author: "[George Sawyer] (https://www.linkedin.com/in/georgesawyer/)"
+date: "12 August 2017"
+output: 
+  ioslides_presentation:
+  incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Selectric II
+
+Image
+
+## Resistance
+
+Define Resistance
+
+<div class="notes">
+This is my note.
+
+- It can contain Markdown
+- like this list
+
+</div>
+
+## Corn as Technology
+<div class="notes">
+Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
+</div>
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
