@@ -25,6 +25,13 @@ knitr::opts_chunk$set(echo = FALSE)
 https://en.wikipedia.org/wiki/IBM_Selectric_typewriter#/media/File:Selectric_II.jpg
 </div>
 
+## Diffusion
+"Diffusion is the process in which as innovation is communicated through certain channels over time among the members of a social system"
+
+<div class="notes">
+Rogers p. 5
+</div>
+
 ## Resistance
 
 Define Resistance
@@ -51,6 +58,15 @@ Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understand
 Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
 </div>
 
+## Diffusion
+<div align="center">
+<img src="Diffusion_of_ideas.svg" alt="Diffusion graph" height="550" width="550" >
+</div>
+<div class="notes">
+https://commons.wikimedia.org/wiki/File:Diffusion_of_ideas.svg
+</div>
+
+
 ## Five Types
 - Innovators
 - Early Adopters
@@ -62,6 +78,16 @@ Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Re
 Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
 </div>
 
+## The Innovation-Decision Process
+- Knowledge
+- Persuasion
+- Decision
+- Implementation
+- Confirmation
+
+<div class="notes">
+Rogers p. 169
+</div>
 
 ## Percieved Usefulness
 Is it useful?
@@ -108,3 +134,5 @@ It must be a meaningful change
 
 There must be a means for workers to accomplish their goals
 </div>
+
+## The Instructor as Change Agent
