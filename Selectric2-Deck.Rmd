@@ -4,7 +4,8 @@ author: "[George Sawyer] (https://www.linkedin.com/in/georgesawyer/)"
 date: "12 August 2017"
 output: 
   ioslides_presentation:
-  incremental: true
+    incremental: true
+    logo: logo.jpg
 ---
 
 ```{r setup, include=FALSE}
@@ -12,11 +13,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ## Introduction
 
-Screenshot of LinkedIn
+<div align="center">
+<img src="Linkedin.jpg" alt="LinkedIn profile of George Sawyer" height="500" width="500" >
+</div>
 
 ## Selectric II
-
-Image
+<div align="center">
+<img src="Selectric_II.jpg" alt="Selectric II" height="500" width="500" >
+</div>
+<div class="notes">
+https://en.wikipedia.org/wiki/IBM_Selectric_typewriter#/media/File:Selectric_II.jpg
+</div>
 
 ## Resistance
 
@@ -47,7 +54,7 @@ Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Re
 ## Five Types
 - Innovators
 - Early Adopters
--   Early Majority
+- Early Majority
 - Majority
 - Non-adopters
 
