@@ -1,6 +1,6 @@
 ---
 title: "Why Does Fred Still Use That Selectric II?"
-author: "[George Sawyer] (https://www.linkedin.com/in/georgesawyer/)"
+author: "George Sawyer"
 date: "12 August 2017"
 output: 
   ioslides_presentation:
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Introduction
 
 <div align="center">
-<img src="Linkedin.jpg" alt="LinkedIn profile of George Sawyer" height="500" width="500" >
+<img src="Linkedin.jpg" alt="LinkedIn profile of George Sawyer" height="500" width="600" >
 </div>
 
 ## Selectric II
@@ -26,7 +26,7 @@ https://en.wikipedia.org/wiki/IBM_Selectric_typewriter#/media/File:Selectric_II.
 </div>
 
 ## Diffusion
-"Diffusion is the process in which as innovation is communicated through certain channels over time among the members of a social system"
+"Diffusion is the process in which an innovation is communicated through certain channels over time among the members of a social system"
 
 <div class="notes">
 Rogers p. 5
@@ -44,14 +44,17 @@ This is my note.
 
 </div>
 
+
 ## Corn as Technology
+
+<div align="center">
+<img src="corn.jpg" alt="Ear of corn grown up in Medjimurje County, Croatia" height="400" width="400" >
+</div>
 <div class="notes">
+https://commons.wikimedia.org/wiki/File:Klip_kukuruza_uzgojen_u_Me%C4%91imurju_(Croatia).JPG#/media/File:Klip_kukuruza_uzgojen_u_Me%C4%91imurju_(Croatia).JPG
 Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
 </div>
-## 5 Stages
-<div class="notes">
-Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
-</div>
+
 
 ## Diffusion of Innovation
 <div class="notes">
@@ -87,13 +90,30 @@ Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Re
 
 <div class="notes">
 Rogers p. 169
+Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
 </div>
 
 ## Percieved Usefulness
-Is it useful?
+"the degree to which a person believes that using a particular system would enhance his or her job performance"
 
 <div class="notes">
 Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
+</div>
+
+## Percieved Ease of Use
+"the degree to which a person believes that using a particular system would be free of effort"
+
+<div class="notes">
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
+</div>
+
+## Self Efficacy
+<div align="center">
+<img src="efficacy.jpg" alt="Self efficacy and outcome judgement from Bandura" height="550" width="550" >
+</div>
+
+<div class="notes">
+Bandura, A. (1982). Self-efficacy mechanism in human agency. American Psychologist, 37(2), 122–147. https://doi.org/10.1037/0003-066X.37.2.122
 </div>
 
 ## The Digital Divide
@@ -107,22 +127,22 @@ Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon,
 </div>
 
 ## Overcoming
-What stage are we in?
-Is it useful?
+- What stage are we in?
+- Is it useful?
 
 ## Fear Factors
-Failure
-Embraressment
-Success
+- Failure
+- Embraressment
+- Success
 
 <div class="notes">
 What do people fear – what are blockers to adoption and learning?
 </div>
 
 ## Assuring Success
-Management
-Meaning
-Means
+- Management
+- Meaning
+- Means
 
 <div class="notes">
 What are keys to success?
