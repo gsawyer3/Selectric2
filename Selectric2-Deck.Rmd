@@ -1,17 +1,21 @@
 ---
 title: "Why Does Fred Still Use That Selectric II?"
-author: "George Sawyer"
+author: "George Sawyer | sawerg@"
 date: "12 August 2017"
+Copyright: " Copyright 2016 George Sawyer"
 output: 
   ioslides_presentation:
-    incremental: true
+    css: styles.css
+    incremental: yes
     logo: logo.jpg
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Introduction
+# Introduction
+
+## Who am I?
 
 <div align="center">
 <img src="Linkedin.jpg" alt="LinkedIn profile of George Sawyer" height="500" width="600" >
@@ -19,29 +23,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Selectric II
 <div align="center">
-<img src="Selectric_II.jpg" alt="Selectric II" height="500" width="500" >
+<img src="Selectric_II.jpg" alt="Selectric II" height="500" width="500"  >
 </div>
 <div class="notes">
 https://en.wikipedia.org/wiki/IBM_Selectric_typewriter#/media/File:Selectric_II.jpg
 </div>
 
+
 ## Diffusion
-"Diffusion is the process in which an innovation is communicated through certain channels over time among the members of a social system"
+<plain>
+"Diffusion is the process in which an innovation is communicated through certain channels over time among the members of a social system" 
+</plain>
 
 <div class="notes">
 Rogers p. 5
 </div>
 
-## Resistance
-
-Define Resistance
+## Diffusion
+<plain>
+"Diffusion is the process in which an innovation is communicated through certain channels over time among the members of a<iw> social system</iw>" 
+</plain>
 
 <div class="notes">
-This is my note.
-
-- It can contain Markdown
-- like this list
-
+Rogers p. 5
 </div>
 
 
@@ -56,42 +60,47 @@ Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understand
 </div>
 
 
-## Diffusion of Innovation
+# Diffusion of Innovation
 <div class="notes">
 Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
 </div>
 
-## Diffusion
-<div align="center">
-<img src="Diffusion_of_ideas.svg" alt="Diffusion graph" height="550" width="550" >
-</div>
-<div class="notes">
-https://commons.wikimedia.org/wiki/File:Diffusion_of_ideas.svg
-</div>
-
 
 ## Five Types
+<div class="black">
 - Innovators
 - Early Adopters
 - Early Majority
 - Majority
 - Non-adopters
+</div>
 
 <div class="notes">
 Rogers, E. M. (1976). New product adoption and diffusion. Journal of Consumer Research, 2(4), 290-301. 
 </div>
 
 ## The Innovation-Decision Process
+<div class="black">
 - Knowledge
 - Persuasion
 - Decision
 - Implementation
 - Confirmation
+</div>
 
 <div class="notes">
 Rogers p. 169
 Beal, G. M., & Bohlen, J. M. (1956). The Diffusion Process Increasing Understanding of Public Problems and Policies (pp. 111-121). Oak Brook, IL: Farm Foundation.
 </div>
+
+## Diffusion
+<div align="center">
+<img src="Diffusion_of_ideas.svg" alt="Diffusion graph" height="600" width="600" >
+</div>
+<div class="notes">
+https://commons.wikimedia.org/wiki/File:Diffusion_of_ideas.svg
+</div>
+
 
 ## Self Efficacy
 <div align="center">
@@ -103,72 +112,106 @@ Bandura, A. (1982). Self-efficacy mechanism in human agency. American Psychologi
 </div>
 
 ## Percieved Usefulness
+<div class="black">
 "the degree to which a person believes that using a particular system would enhance his or her job performance"
+</div>
+
+<div class="notes">
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
+</div>
+
+## Percieved Usefulness
+<div class="black">
+"the degree to which a person <iw>believes</iw> that using a particular system would <iw>enhance his or her job performance</iw>"
+</div>
 
 <div class="notes">
 Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
 </div>
 
 ## Percieved Ease of Use
+<div class="black">
 "the degree to which a person believes that using a particular system would be free of effort"
+</div>
 
 <div class="notes">
 Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
 </div>
 
-## Self Efficacy
-<div align="center">
-<img src="efficacy.jpg" alt="Self efficacy and outcome judgement from Bandura" height="550" width="550" >
+## Percieved Ease of Use
+<div class="black">
+"the degree to which a person believes that using a particular system would be <iw>free of effort</iw>"
 </div>
 
 <div class="notes">
-Bandura, A. (1982). Self-efficacy mechanism in human agency. American Psychologist, 37(2), 122–147. https://doi.org/10.1037/0003-066X.37.2.122
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-340. 
 </div>
+
 
 ## The Digital Divide
+<div class="black">
+- Natives
+- Immigrants
+</div>
 <div class="notes">
 Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon, 9(5), 1-6. doi: http://dx.doi.org/10.1108/10748120110424816
 </div>
 
-## Natives vs Immigrants
-<div class="notes">
-Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon, 9(5), 1-6. doi: http://dx.doi.org/10.1108/10748120110424816
-</div>
+# Making a Difference
 
 ## Overcoming
+<div class="black">
 - What stage are we in?
-- Is it useful?
+- Is it useful/easy?
+</div>
 
 ## Fear Factors
+<div class="black">
 - Failure
 - Embraressment
 - Success
+</div>
 
 <div class="notes">
 What do people fear – what are blockers to adoption and learning?
 </div>
 
 ## Assuring Success
+<div class="black">
 - Management
 - Meaning
 - Means
-
-<div class="notes">
-What are keys to success?
-
-
-Management support
-
-It must be a meaningful change
-
-There must be a means for workers to accomplish their goals
 </div>
 
+<div class="notes">
+- What are keys to success?
+- Management support
+- It must be a meaningful change
+- There must be a means for workers to accomplish their goals
+</div>
+
+## The Learning Trough
+<div align="center">
+<img src="productivity.png" alt="The Training Trough and productivity" height="400" width="700">
+</div>
+
+
 ## The Instructor
+<div class="black">
 - Change agent
 - Opinion leader
 - Change agent aide
+</div>
 
 ## Same and Different
+<div class="black">
 - homophilous
 - heterophilous
+</div>
+
+## Questions
+
+
+<div align="center" class="black">
+SAWYERG@
+</div>
